@@ -87,7 +87,7 @@ Inti/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/Inti.git
+   git clone https://github.com/Dallex-MT/Inti.git
    ```
 
 2. Navega al directorio del proyecto:
